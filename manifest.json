@@ -1,0 +1,9 @@
+{
+  "category": "example",
+  "tags": [
+    "ruby",
+    "sinatra",
+    "routes"
+  ],
+  "notes": "Half project, half example."
+}
