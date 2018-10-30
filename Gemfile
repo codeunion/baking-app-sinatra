@@ -6,7 +6,7 @@
 
 source("https://rubygems.org")  # Download our libraries from rubygems.org
 
-gem("sinatra", "~> 1.4.5")      # Sinatra is the web framework we're using
+gem("sinatra", "~> 2.0.4")      # Sinatra is the web framework we're using
 
 # "development" refers to our local copy, running on our own computer
 group("development") do
